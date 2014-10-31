@@ -7,19 +7,21 @@ Algorithm: X13 POW/POS
 
 Ticker: BOOM
 
-Current Version "2.1.0.0"
+Current Version "3.0.0.0"
 
-Max Coins: 2,000,000 BOOM
+Max Coins: 16,000,000 BOOM
 
 RPC Port: 28266
 
 30 Blocks to mature
 
+1 minute block time
+
 Block Reward Schedule:
 
-Block 1 is 2,000,000  BOOM
+Block 1 is 11,380,000  BOOM (SWAP BLOCK)
 
-Block 2-500,000 are 0 BOOM
+Block 2 - 43,200 are 25 BOOM (30 days of mining)
 
 X13 -(blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue)
 
@@ -27,9 +29,7 @@ More info can be found at:
 
 Website - http://cleverhash.com
 
-Bitcointalk - https://bitcointalk.org/index.php?topic=826541.0
-
-Whitepaper - https://drive.google.com/file/d/0Bz5jVqQaTSBcTFl2akd0QTJlN1k/view?usp=sharing
+Bitcointalk - https://bitcointalk.org/index.php?topic=716699.0
 
 
 ==========================================================
