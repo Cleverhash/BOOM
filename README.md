@@ -11,6 +11,8 @@ Current Version "3.0.0.0"
 
 Max Coins: 16,000,000 BOOM
 
+MinStakeAge: 1 hour, MaxStakeAge: Unlimited, 9% Annual Interest
+
 RPC Port: 28266
 
 30 Blocks to mature
