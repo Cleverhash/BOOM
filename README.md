@@ -7,7 +7,7 @@ Algorithm: X13 POW/POS
 
 Ticker: BOOM
 
-Current Version "3.0.0.0"
+Current Version "3.0.0.1"
 
 Max Coins: 16,000,000 BOOM
 
@@ -29,7 +29,7 @@ X13 -(blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, ec
 
 More info can be found at:
 
-Website - http://cleverhash.com
+Website - http://boomcoin.com
 
 Bitcointalk - https://bitcointalk.org/index.php?topic=716699.0
 
